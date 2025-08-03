@@ -4,6 +4,7 @@ from tkinter import Tk, messagebox
 from tkinter import ttk
 from tkinter import font
 from PIL import Image, ImageTk
+from datetime import datetime
 
 cryptos = ['BTC','ETH','XRP','USDT','BNB','SOL','USDC','TRX','DOGE','ADA','HYPE','SUI','XLM','LINK','BCH','HBAR','WBT',
            'AVAX','USDE','TON']
